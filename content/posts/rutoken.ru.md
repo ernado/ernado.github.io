@@ -30,6 +30,7 @@ hideComments = false
 ```bash
 cd ~/Downloads
 tar -xvf linux-amd64_deb.tgz
+cd linux-amd64_deb/
 ./install_gui.sh
 ```
 
